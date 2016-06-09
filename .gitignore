@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+#custom files
+config.php
+.DS_Store
